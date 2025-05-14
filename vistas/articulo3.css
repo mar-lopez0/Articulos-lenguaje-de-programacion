@@ -1,0 +1,14 @@
+.Titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: #2c3e50;
+    margin-top: 21px;
+}
+.Parrafo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    padding: 10px 15px;
+    font-size: 18px;
+    color: #344934;
+}
